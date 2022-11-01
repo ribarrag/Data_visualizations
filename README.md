@@ -8,5 +8,5 @@ I hope to enhance my skills to communicate effectively using data. Specifically,
 ## Portfolio
 Here is my portfolio for Telling Stories with Data.  
 
-**Link to the site:** https://ribarrag.github.io/portfolio  
+**Link to the site:** https://ribarrag.github.io/portfolio(https://ribarrag.github.io/portfolio)
 
