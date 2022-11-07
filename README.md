@@ -10,5 +10,5 @@ Here is my portfolio for Telling Stories with Data.
 
 **Link to the site:** [https://ribarrag.github.io/portfolio](https://ribarrag.github.io/portfolio)
 
-**Second visualization, [here](/dataviz2.md)
+**Second visualization:** [here](/dataviz2.md)
 
