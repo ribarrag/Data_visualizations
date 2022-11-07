@@ -20,7 +20,6 @@
 - **For instance, it is easy to spot that Greece had an inflection point in 2011 and it government debt started rapidly increaasing**
 - **Countries like Japan have an ever increasing trend**
 - **And countries like  New Zealand or Israel have very stable trends**
-- 
 <div style="text-align: center;" class="flourish-embed flourish-chart" data-src="visualisation/11723794"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
