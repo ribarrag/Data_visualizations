@@ -1,7 +1,7 @@
 ## Assignment 2, TSWD
 ### 1. General government debt, 2020 (% of GDP)
 - **The following graph shows the debt held by the general governemnt (National + State + Local governemnt + Social security) as a percentage of GDP for 2020.**  
-- **Developed countries higlighted include:
+- **Developed countries higlighted include:**
   - **Switzerland (orange), with a debt-GDP ratio of 43% -this information is displayed when hovering the mouse over the bar-** 
   - **Denmark (blue) with 58% 
   And then some that rank higher than the OECD average (black filled bar) such as:**
