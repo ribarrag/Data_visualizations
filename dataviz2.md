@@ -1,7 +1,7 @@
 ## Assignment 2, TSWD
 ### 1. General government debt, 2020 (% of GDP)
 - **The following graph shows the debt held by the general governemnt (National + State + Local governemnt + Social security) as a percentage of GDP for 2020.**  
-- **Countries higlighted include Russia, with a debt-GDP ratio of 20% -this information is displayed when hovering the mouse over the bar-, Denmark with 58%, and then some developed countries that rank higher than the OECD average (black filled bar) such as:
+- **Countries higlighted include Russia, with a debt-GDP ratio of 20% -this information is displayed when hovering the mouse over the bar-, Denmark with 58%, and then some developed countries that rank higher than the OECD average (black filled bar) such as:**
   - **Canada (142%)**
   - **U.S. (160%)**
   - **Japan, in the highest position, with a governemnt debt of over 2.5 times its GDP**
@@ -18,7 +18,7 @@
 
 ### 3. General government debt over time, 2000, 2010, 2020 (% of GDP)
 - **This graph includes information only for the first year of the past three decades**
-- **This graph allows to follow the evolution of governemnt debt over GDP from 2000 to 2020, and hovering over the dots pdisplays the ecxact proportion of that year for the selected country**
+- **This graph allows to follow the evolution of governemnt debt over GDP from 2000 to 2020, and hovering over the dots displays the exact ratio for that year for the selected country**
 - **The user can also select a specific year in the upper menu to compare the different countries for which data is available in one period in time.**
 - **Additionally, the start and end points can be set by selecting the years to compare clicking on the colored dots below the X title.**
 
