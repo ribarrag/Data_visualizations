@@ -9,3 +9,7 @@
 ## New visualization
 **DESCRIPTION**
 <div style="text-align: center;" class="flourish-embed flourish-chart" data-src="visualisation/11723794"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+# New(er) visualization
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11724190"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
