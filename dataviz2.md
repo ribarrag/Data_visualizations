@@ -12,4 +12,4 @@
 
 
 # New(er) visualization
-<div style="text-align: center;" class="flourish-embed flourish-scatter" data-src="visualisation/11724190"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div style="text-align: center;" class="flourish-embed flourish-scatter" data-src="visualisation/11724190"><script src="https://public.flourish.studio/resources/embed.js" width="800" height="600"></script></div>
