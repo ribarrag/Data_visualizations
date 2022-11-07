@@ -20,6 +20,6 @@
 - **This graph includes information only for the first year of the past three decades**
 - **This graph allows to follow the evolution of governemnt debt over GDP from 2000 to 2020, and hovering over the dots displays the exact ratio for that year for the selected country**
 - **The user can also select a specific year in the upper menu to compare the different countries for which data is available in one period in time.**
-- **Additionally, the start and end points can be set by selecting the years to compare clicking on the colored dots below the X title.**
+- **Additionally, the start and end points can be set by selecting the years to compare clicking on the colored dots below the X axis label.**
 
 <iframe src='https://flo.uri.sh/visualisation/11724190/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:1020px;height:800px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11724190/?utm_source=embed&utm_campaign=visualisation/11724190' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
