@@ -2,7 +2,9 @@
 I have selected an image to critique. 
 This graph appeared in a report from the Congressional Budget Office.
 
-![Image to critique](Inflation_graph.jpg)
+<img src="Inflation_graph.jpg"
+     alt="Graph with inflation data in the U.S. from 2019 to 2022"
+     style="float: left; margin-right: 10px;" />
 
 
 
