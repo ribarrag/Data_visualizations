@@ -2,7 +2,7 @@
 I have selected an image to critique. 
 This graph appeared in a report from the Congressional Budget Office.
 
-![Image to critique](Inflation_graph.jpeg)
+![Image to critique](Inflation_graph.jpg)
 
 
 
