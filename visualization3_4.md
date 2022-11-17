@@ -1,4 +1,5 @@
 # Critique by design
+URL: https://ribarrag.github.io/portfolio/visualization3_4.html
 I have selected an image to critique. 
 This graph appeared in a report from the Congressional Budget Office.
 
