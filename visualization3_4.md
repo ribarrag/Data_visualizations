@@ -33,7 +33,7 @@ Some of the comments from the surveys are incluided in the draft as comments in 
 
 ## Final version
 <div style="text-align: center;">
-<img src="Final_graph.png" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
+<img src="Final_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
      height="600">
 </div>
 
