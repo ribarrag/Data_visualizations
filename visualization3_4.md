@@ -1,10 +1,10 @@
 # Critique by design
-URL: https://ribarrag.github.io/portfolio/visualization3_4.html  
+
 I have selected the following graph to critique. It appeared in a report from the Congressional Budget Office.
-The ofiginal can be found in [this report](https://www.cbo.gov/system/files/2022-09/58426-Inflation.pdf) (p. 6).
+The original can be found in [this report](https://www.cbo.gov/system/files/2022-09/58426-Inflation.pdf) (p. 6).
 
 <div style="text-align: center;">
-<img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022">
+<img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022"">
 </div>
 
 I don't think it is a terribly bad designed graphed: actually, it presents interesting, truthful and complete data. However, ...  
@@ -22,7 +22,7 @@ I don't think it is a terribly bad designed graphed: actually, it presents inter
 - I would also use a dotted line to represent the average instead of a new shape (or bar) 
 
 ## Draft with comments
-From my critique, I crafted the following graph, which I then showed to different participants.
+From my critique, I crafted the following graph, which I then showed to 2 separate participants.
 
 <div style="text-align: center;">
 <img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="600" 
@@ -32,8 +32,7 @@ From my critique, I crafted the following graph, which I then showed to differen
 ## Comments from surveys
 Some of the comments from the surveys are incluided in the draft as comments in <span style="color: green">green</span>
 
-First (male, consultant, early 30s)
-Possible seed questions might include: 
+### First (male, consultant, early 30s)
 - **Can you tell me what you think this is?**
 A graph for inflation in the US, I can tell that from reading the title.
 
@@ -51,7 +50,7 @@ For either people trained in Economics, or also people who are interested in kno
 Discard the repeated years in the x axis. Perhaps only leave the first one, people will infer that it is the same case for the rest, and the graph might look cleaner.
 
 
-Second (female, student, late 20s)
+### Second (female, student, late 20s)
 - **Can you tell me what you think this is?**
 A chart showing high inflation trend for energy and durable goods in America.
 
