@@ -3,8 +3,9 @@ URL: https://ribarrag.github.io/portfolio/visualization3_4.html
 I have selected an image to critique. 
 This graph appeared in a report from the Congressional Budget Office.
 
-
+<div style="text-align: center;">
 <img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" class="center">
+</div>
 
 The visualization presents interesting, truthful and complete data. However, it is not presented in a very intuitive manner: it contains different shapes for different years: so the user’s eyes must travel back and forth to check which year  belongs with which shape. Additionally, it is not very clear why the grey area means in the context of this graph. 
 Although the main message that the authors wanted to convey was that the highest inflation was that of energy goods and services and of durable goods, there is nothing in the graph that highlights them.
@@ -18,25 +19,18 @@ I would add a more engaging title, I would rotate the graph so inflation is on t
 
 ## Draft with comments
 
-
-<img src="Draft_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" width="500" 
-     height="600" class="center">
-
-
 <div style="text-align: center;">
-<img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="500" 
-     height="600" class = "center">
+<img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="600" 
+     height="720" class = "center">
 </div>
 
 ## Comments from surveys
-## Some of the comments from the surveys are incluided in the draft as comments in 
-# CHANGE COLOR->green
-
+Some of the comments from the surveys are incluided in the draft as comments in <span style="color: green">green</span>
 
 
 ## Final version
 <div style="text-align: center;">
-<img src="Final_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022", width="768" 
-     height="600", class = "center">
+<img src="Final_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
+     height="600">
 </div>
 
