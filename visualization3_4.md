@@ -19,12 +19,13 @@ I would add a more engaging title, I would rotate the graph so inflation is on t
 ## Draft with comments
 
 
-<img src="Draft_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" class="center">
+<img src="Draft_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" width="500" 
+     height="600" class="center">
 
 
 <div style="text-align: center;">
-<img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022", width="500" 
-     height="600", class = "center">
+<img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="500" 
+     height="600" class = "center">
 </div>
 
 ## Comments from surveys
