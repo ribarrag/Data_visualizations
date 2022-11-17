@@ -23,3 +23,13 @@ I would add a more engaging title, I would rotate the graph so inflation is on t
 <img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022", width="500" 
      height="600", class = "center">
 </div>
+
+## Comments from surveys
+## Some of the comments from the surveys are incluided in the draft as comments in 
+# CHANGE COLOR->green
+
+
+
+## Final version
+
+
