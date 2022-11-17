@@ -30,6 +30,45 @@ I have selected the following graph to critique. It appeared in a report from th
 ## Comments from surveys
 Some of the comments from the surveys are incluided in the draft as comments in <span style="color: green">green</span>
 
+First
+Possible seed questions might include: 
+- Can you tell me what you think this is?
+A graph for inflation in the US, I can tell that from reading the title.
+
+
+- Can you describe to me what this is telling you?
+Telling me that energy inflation is very bad and durable goods. 
+
+- Is there anything you find surprising or confusing?
+Why is the energy inflation negative for the first period and then among the highest? The axis might not be symmetrical, perhaps that is influencing my perception
+One of the years is 2022, however we do not have complete information for 2022. I would recommend including a note explaining that the data are either estimates or up to a certain month in the year.
+
+- Who do you think is the intended audience for this?
+For either people trained in Economics, or also people who are interested in knowing where inflation rates have ben higher during the past years.
+
+- Is there anything you would change or do differently?
+Discard the repeated years in the x axis. Perhaps only leave the first one, people will infer that it is the same case for the rest, and the graph might look cleaner.
+
+
+
+Second
+1. what do you think this is
+A chart showing high inflation trend for energy and durable goods in America.
+
+- describe what this is telling you
+At first glance, it seems that the energy and other goods sectors have seen rising inflation since 2020. I don't understand why only these two categories are colored because inflation has also increased for the first two categories; overall and food.
+
+- anything surprising or confusing
+I don't understand what the sub-categories mean for energy i.e. goods and services. I also find it odd that the overall inflation is presented as a category whereas it is actually an aggregate trend of all the categories. 
+
+- who do you think is the intended audience
+
+Perhaps economists, policy practioners and business owners in America.
+
+- anyting you would change
+
+I would add a note explaining what each category and sub-category means.
+I would not consider the 2019 observation for the average of inflation, as it is not included in the data depicted in the graphs, I think it is a bit counterintuitive to include it when computing the average.
 
 ## Final version
 <div style="text-align: center;">
