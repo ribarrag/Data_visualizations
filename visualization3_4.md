@@ -72,6 +72,6 @@ I would not consider the 2019 observation for the average of inflation, as it is
 
 ## Final version
 <div style="text-align: center;">
-<img src="Final_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
+<img src="Final_graph_hw3.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
      height="600">
 </div>
