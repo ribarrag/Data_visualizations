@@ -32,7 +32,7 @@ I would add a more engaging title, I would rotate the graph so inflation is on t
 
 ## Final version
 <div style="text-align: center;">
-<img src="Final.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022", width="500" 
+<img src="Final_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022", width="500" 
      height="600", class = "center">
 </div>
 
