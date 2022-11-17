@@ -7,9 +7,9 @@ The ofiginal can be found in [this report](https://www.cbo.gov/system/files/2022
 <img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022">
 </div>
 
-For starters, it is not a terribly bad designed graphed: it presents interesting, truthful and complete data. 
+I don't think it is a terribly bad designed graphed: actually, it presents interesting, truthful and complete data. However, ...  
 
-- However, in my opinion, it's not presented in a very intuitive way: it contains different shapes for different years, so the user’s eyes must travel back and forth to check which year belongs with which shape. 
+- In my opinion, the information is not presented in a very intuitive way: it contains different shapes for different years, so the user’s eyes must travel back and forth to check which year belongs with which shape. 
 - Additionally, it is not very clear what the gray area means in the context of this graph. 
 - Although the main message that the authors wanted to convey was that the highest inflation was that of energy goods and services and of durable goods, there is nothing in the graph that highlights those categories.
 - I think that, aesthetically, it is a clean graph only using gray and white in the background, without many gridlines; however, it could be perceived as slightly busy with many shapes. 
@@ -22,6 +22,7 @@ For starters, it is not a terribly bad designed graphed: it presents interesting
 - I would also use a dotted line to represent the average instead of a new shape (or bar) 
 
 ## Draft with comments
+From my critique, I crafted the following graph, which I then showed to different participants.
 
 <div style="text-align: center;">
 <img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="600" 
@@ -31,11 +32,10 @@ For starters, it is not a terribly bad designed graphed: it presents interesting
 ## Comments from surveys
 Some of the comments from the surveys are incluided in the draft as comments in <span style="color: green">green</span>
 
-First
+First (male, consultant, early 30s)
 Possible seed questions might include: 
 - **Can you tell me what you think this is?**
 A graph for inflation in the US, I can tell that from reading the title.
-
 
 - **Can you describe to me what this is telling you?**
 Telling me that energy inflation is very bad and durable goods. 
@@ -51,8 +51,7 @@ For either people trained in Economics, or also people who are interested in kno
 Discard the repeated years in the x axis. Perhaps only leave the first one, people will infer that it is the same case for the rest, and the graph might look cleaner.
 
 
-
-Second
+Second (female, student, late 20s)
 - **Can you tell me what you think this is?**
 A chart showing high inflation trend for energy and durable goods in America.
 
@@ -70,6 +69,8 @@ I would add a note explaining what each category and sub-category means.
 I would not consider the 2019 observation for the average of inflation, as it is not included in the data depicted in the graphs, I think it is a bit counterintuitive to include it when computing the average.
 
 ## Final version
+The final version is a second round of adjustments, that took into account some of the comments gathered from the two participants:
+
 <div style="text-align: center;">
 <img src="Final_graph_hw3.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
      height="600">
