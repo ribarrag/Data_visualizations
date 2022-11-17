@@ -8,7 +8,7 @@ I have selected the following graph to critique. It appeared in a report from th
 
 - For starters, it is not a terribly bad designed graphed: it presents interesting, truthful and complete data. 
 
-- However, in m opinion, it's not presented in a very intuitive way: it contains different shapes for different years, so the user’s eyes must travel back and forth to check which year belongs with which shape. 
+- However, in my opinion, it's not presented in a very intuitive way: it contains different shapes for different years, so the user’s eyes must travel back and forth to check which year belongs with which shape. 
 - Additionally, it is not very clear why the grey area means in the context of this graph. 
 - Although the main message that the authors wanted to convey was that the highest inflation was that of energy goods and services and of durable goods, there is nothing in the graph that highlights them.
 - I think that, aesthetically, it is a clean graph only using gray and white in the background, without many gridlines, but it could be perceived as slightly busy with many shapes. 
