@@ -3,10 +3,8 @@ URL: https://ribarrag.github.io/portfolio/visualization3_4.html
 I have selected an image to critique. 
 This graph appeared in a report from the Congressional Budget Office.
 
-<div style="text-align: center;">
-<img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" class="center">
-</div>
 
+<img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022" class="center">
 
 The visualization presents interesting, truthful and complete data. However, it is not presented in a very intuitive manner: it contains different shapes for different years: so the user’s eyes must travel back and forth to check which year  belongs with which shape. Additionally, it is not very clear why the grey area means in the context of this graph. 
 Although the main message that the authors wanted to convey was that the highest inflation was that of energy goods and services and of durable goods, there is nothing in the graph that highlights them.
