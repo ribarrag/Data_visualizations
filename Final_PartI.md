@@ -135,4 +135,5 @@ I will use mainly Flourish to create the visualizations, and I will use Shorthan
 - Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show, WSJ, available [here](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)
 - Social media usage in the United States, Statista. Report available [here](https://www.statista.com/topics/3196/social-media-usage-in-the-united-states/)
 - Mobile app usage of children in the United States, Statista. Report available [here](https://www.statista.com/topics/10106/mobile-app-usage-of-children-in-the-united-states/)
+- Viewing personalized video clips recommended by TikTok activates default mode network and ventral tegmental area, available [here](https://www.sciencedirect.com/science/article/pii/S1053811921004134)
 
