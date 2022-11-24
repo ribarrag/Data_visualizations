@@ -6,12 +6,21 @@ The idea of the project is to present data about the increasing use of social me
 
 ## Arc of the story
 I think the most general structure of the story is the following:
+
 <div style="text-align: center;">
 <img src="images_project/SM RIG 11.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
      height="500">
 </div>
 
+I will start by giving an overall context about the usage of social networks in the U.S. among all population. This will keep the audiecne in a neutral mood. Then I will briefly touch upon some statistics related to kids use of social networks, still providing the audience with background information, which perhaps can be slightly surprising, depending how much they know about the subject.
 
+After that, I will briefly mention the (lack of) involvement in children's usage of social media. This might raise an eyebrow in the audience as the overall involvement is low, especially when compared to other countries, like Spain.
+
+Next, I will apresent some positive impact of social media on children, for which I still need further data. This should make the audience feel slighly optimistic.
+
+However, next comes the negative impact of two cases: Instagram and Tiktok.
+
+And I close with the call action, which will be along the lines  of :  
 
 
 # Outline
