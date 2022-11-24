@@ -25,7 +25,7 @@ And I close with the call action, which will be along the lines of :
 - There are some tools available that help parents monitor and limit social media use. We should be aware of these tools, and use them.
 - Perhaps very few or no one in the audience will be a parent, but they might have relatives who are parents to young children, or have relatives who are children, so people in the audience can also: spread the word among family who have kids, and get involved in the use of social media by the children in their families.
 
-# A first outline
+## A first outline
 Social network penetration has constantly increased in the world and in the U.S., where it is projected to reach almost 100% of the population.
 Virtually everyone will be ctively using some sort of social media.
 
@@ -101,7 +101,10 @@ Something
 
 
 ## Method and medium
-Although we are still missing data and research about the impact of social media on children (mental health, relationships with others. ...)
+I will use mainly Flourish  toc reate the visualizations, and I will use Shorthand to create the story and present it.
 
-# Data sources
+# Data sources'
+- The Common Sense Census: Media Use by Tweens and Teens. Available here [https://www.commonsensemedia.org/research/the-common-sense-census-media-use-by-tweens-and-teens-2021]
+
+Although we are still missing data and research about the impact of social media on children (mental health, relationships with others. ...)
 
