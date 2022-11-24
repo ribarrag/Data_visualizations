@@ -114,15 +114,16 @@ Additionally, when girls are asked about the feeling that Instagram triggers in 
 On the tiktok side: there is increasing evidence that TikTok algorithm promotes addictive behavior. A paper shows that presenting people with recommended short videos, it activates some parts of the brain that are related to learning, reinforcement and pleasure, and it reduces the activity of other parts that are related to self control. This is a good recipe to generate addiction.
 
 <div style="text-align: center;">
-<img src="images_project/SM RIG 12.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
-     height="500">
+<img src="images_project/SM RIG 13.jpg" alt="U.S. map Tiktok investigation" width="450" 
+     height="300">
 </div>
+
 
 Furthermore, there is an ongoing investigation in eight states to research the impact of TikTok on children's mental health.
 
 <div style="text-align: center;">
-<img src="images_project/SM RIG 13.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="450" 
-     height="300">
+<img src="images_project/SM RIG 12.jpg" alt="Tiktok effect: brain image width="600" 
+     height="500">
 </div>
 
 I will close by making the following points:
