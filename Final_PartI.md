@@ -4,9 +4,15 @@
 # Main idea / description
 The idea of the project is to present data about the increasing use of social media among children (ages ≤ 18) in the U.S., and the main negative effects of unsupervised long screen time, espcially the cases of Instagram and TikTok.
 
+## Arc of the story
+I think the most general structure of the story is the following:
+<div style="text-align: center;">
+<img src="images_project/SM RIG 11.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
+     height="500">
+</div>
 
 
-Although we are still missing data and research about the impact of social media on children (mental health, relationships with others. ...)
+
 
 # Outline
 
@@ -41,7 +47,7 @@ The average American child spends most of its time on social networks using apps
      height="500">
 </div>
 
-The favorite apps for kids have been almost the same for the past years, with
+The favorite apps for kids have been almost the same for the past years: TikTok, Instagram, Snapchat. It is suprinsing the jump ion average time spent by a child on Tiktok, from 44 minutes per day in 
 
 <div style="text-align: center;">
 <img src="images_project/SM RIG 8.jpg" alt="Average daily time spent by chidren in the U.S. over time (2019-2021), minutes" width="600" 
@@ -82,10 +88,10 @@ Something
 </div>
 
 
-## Arc of the story
+
 
 ## Method and medium
-
+Although we are still missing data and research about the impact of social media on children (mental health, relationships with others. ...)
 
 # Data sources
 
