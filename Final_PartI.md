@@ -1,7 +1,7 @@
 # Final project: draft 1
-# Increasing need to oversee children's screen time on social media in the U.S.: the cases of Instagram and Tiktok
+## Increasing need to oversee children's screen time on social media in the U.S.: the cases of Instagram and Tiktok
 
-# Main idea / description
+## Main idea / description
 The idea of the project is to present data about the increasing use of social media among children (ages ≤ 18) in the U.S., and the main negative effects of unsupervised long screen time, espcially the cases of Instagram and TikTok.
 
 ## Arc of the story
@@ -16,18 +16,16 @@ I will start by giving an overall context about the usage of social networks in 
 
 After that, I will briefly mention the (lack of) involvement in children's usage of social media. This might raise an eyebrow in the audience as the overall involvement is low, especially when compared to other countries, like Spain.
 
-Next, I will apresent some positive impact of social media on children, for which I still need further data. This should make the audience feel slighly optimistic.
+Next, I will present some positive impact of social media on children, for which I still need further data. This should make the audience feel slighly optimistic.
 
-However, next comes the negative impact of two cases: Instagram and Tiktok.
+However, next comes the negative impact of two cases: Instagram and Tiktok. Although the evidence is limited, there is some research that points toward some negative effects: on mental health and addictive behavior. The mood of the audience will turn pesimistic or even alarmed.
 
 And I close with the call action, which will be along the lines of :  
-- Parent should get more involvmente in their children's use of social media
-- there are more tool available that we should know of that help parents monitor and limit social media use.
-- Perhaps no one in the audience will be a parent, but they might have relatives who are parents to young children, or have realtives (like nephews) who are young, so people in the audience can also spread the word, and get involved in the use of social media by the children in their families.
+- Parentd should get more involved in their children's use of social media
+- There are some tools available that help parents monitor and limit social media use. We should be aware of these tools, and use them.
+- Perhaps very few or no one in the audience will be a parent, but they might have relatives who are parents to young children, or have relatives who are children, so people in the audience can also: spread the word among family who have kids, and get involved in the use of social media by the children in their families.
 
-
-# Outline
-
+# A first outline
 Social network penetration has constantly increased in the world and in the U.S., where it is projected to reach almost 100% of the population.
 Virtually everyone will be ctively using some sort of social media.
 
