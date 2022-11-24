@@ -20,7 +20,10 @@ Next, I will apresent some positive impact of social media on children, for whic
 
 However, next comes the negative impact of two cases: Instagram and Tiktok.
 
-And I close with the call action, which will be along the lines  of :  
+And I close with the call action, which will be along the lines of :  
+- Parent should get more involvmente in their children's use of social media
+- there are more tool available that we should know of that help parents monitor and limit social media use.
+- Perhaps no one in the audience will be a parent, but they might have relatives who are parents to young children, or have realtives (like nephews) who are young, so people in the audience can also spread the word, and get involved in the use of social media by the children in their families.
 
 
 # Outline
