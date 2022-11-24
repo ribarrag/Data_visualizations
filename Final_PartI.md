@@ -97,13 +97,14 @@ Something
      height="500">
 </div>
 
+on tiktok: there is increasing evidence that TikTok algorithm promotes addictive behavior. 
 
 
 
 ## Method and medium
 I will use mainly Flourish to create the visualizations, and I will use Shorthand to create the story and present it.
 
-# Data sources'
+# Data sources
 - The Common Sense Census: Media Use by Tweens and Teens, available [here](https://www.commonsensemedia.org/research/the-common-sense-census-media-use-by-tweens-and-teens-2021)
 - Annual data report 2022. Living and learning in a digital world, available [here](https://www.qustodio.com/en/living-and-learning-in-a-digital-world/)
 - The associations between sedentary behaviour and mental health among adolescents: a systematic review, available [here](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-016-0432-4)
