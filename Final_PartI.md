@@ -57,7 +57,9 @@ The average American child spends most of its time on social networks using apps
      height="500">
 </div>
 
-The favorite apps for kids have been almost the same for the past years: TikTok, Instagram, Snapchat. It is suprinsing the jump ion average time spent by a child on Tiktok, from 44 minutes per day in 
+The favorite apps for kids have been almost the same for the past years: TikTok, Instagram, Snapchat. It is suprinsing the jump on average time spent by a child on Tiktok, from 44 minutes per day in 2019 to 99 minutes daily on average in 2021 (these number can differe slightly from the previous graph because they are taken from different sources).
+
+As can be seen, the average time that children spend in social media went up during the pandemic. There is some evidence about the posiitve impact of this increased exposure. [Here, I am missing data to document this positive impact, which is mainly related to a diminished feeling of loneliness and icnreased peer realtionships during periods of lockdown]
 
 <div style="text-align: center;">
 <img src="images_project/SM RIG 8.jpg" alt="Average daily time spent by chidren in the U.S. over time (2019-2021), minutes" width="600" 
