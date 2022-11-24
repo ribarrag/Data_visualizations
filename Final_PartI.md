@@ -59,13 +59,31 @@ The average American child spends most of its time on social networks using apps
 
 The favorite apps for kids have been almost the same for the past years: TikTok, Instagram, Snapchat. It is suprinsing the jump on average time spent by a child on Tiktok, from 44 minutes per day in 2019 to 99 minutes daily on average in 2021 (these number can differe slightly from the previous graph because they are taken from different sources).
 
-As can be seen, the average time that children spend in social media went up during the pandemic. There is some evidence about the posiitve impact of this increased exposure.  
-
 
 <div style="text-align: center;">
 <img src="images_project/SM RIG 8.jpg" alt="Average daily time spent by chidren in the U.S. over time (2019-2021), minutes" width="600" 
      height="500">
 </div>
+
+With all this increased exposure to social media apps, it is suprising that parents are a bit reluctant to get actively involved in monoitoring and limiting their children's use of social media. I can present the following data about it.
+
+<div style="text-align: center;">
+<img src="images_project/SM RIG 3.jpg" alt="Age parents stop monitoring children's use of technology'" width="600" 
+     height="500">
+</div>
+
+<div style="text-align: center;">
+<img src="images_project/SM RIG 5.jpg" alt="Parental concern with children's technology usage" width="700" 
+     height="500">
+</div>
+
+<div style="text-align: center;">
+<img src="images_project/SM RIG 4.jpg" alt="How parent monitor children's use of technology, U.S., 2022" width="650" 
+     height="500">
+</div>
+
+As we saw with the numbers presented previously, the average time that children spend in social media went up during the pandemic. There is some evidence about the posiitve impact of this increased exposure.  
+
 
 **[Here, I am missing data to document this positive impact, which is mainly related to a diminished feeling of loneliness and icnreased peer realtionships during periods of lockdown]**  
 
@@ -78,32 +96,21 @@ About Instagram, there is data that xontinued exposure to Instagram makes childr
      height="500">
 </div>
 
-Parents role
+Additionally, when girls are asked about the feeling that Instagram triggers in them, some of the main responses include feeling:
 
-<div style="text-align: center;">
-<img src="images_project/SM RIG 3.jpg" alt="Age parents stop monitoring children's use of technology'" width="600" 
-     height="500">
-</div>
+- Not attractive
+- That they must create the perfect image
+- That they dont have enough money
+- Or neough friends
+- Like they are not good enough
 
-
-<div style="text-align: center;">
-<img src="images_project/SM RIG 5.jpg" alt="Parental concern with children's technology usage" width="700" 
-     height="500">
-</div>
-
-<div style="text-align: center;">
-<img src="images_project/SM RIG 4.jpg" alt="How parent monitor children's use of technology, U.S., 2022" width="650" 
-     height="500">
-</div>
-
-
-
-Something
 
 <div style="text-align: center;">
 <img src="images_project/SM RIG 10.jpg" alt="Thought instagram triggers on children" width="600" 
      height="500">
 </div>
+
+
 
 on tiktok: there is increasing evidence that TikTok algorithm promotes addictive behavior. 
 
