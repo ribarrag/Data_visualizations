@@ -99,7 +99,16 @@ Something
 
 on tiktok: there is increasing evidence that TikTok algorithm promotes addictive behavior. 
 
+<div style="text-align: center;">
+<img src="images_project/SM RIG 12.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
+     height="500">
+</div>
 
+
+<div style="text-align: center;">
+<img src="images_project/SM RIG 13.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
+     height="500">
+</div>
 
 ## Method and medium
 I will use mainly Flourish to create the visualizations, and I will use Shorthand to create the story and present it.
