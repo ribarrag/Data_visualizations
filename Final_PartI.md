@@ -106,8 +106,8 @@ on tiktok: there is increasing evidence that TikTok algorithm promotes addictive
 
 
 <div style="text-align: center;">
-<img src="images_project/SM RIG 13.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="600" 
-     height="500">
+<img src="images_project/SM RIG 13.jpg" alt="Graph with U.S. total social network usage from 2018 to 2027" width="450" 
+     height="300">
 </div>
 
 ## Method and medium
