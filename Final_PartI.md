@@ -1,7 +1,12 @@
-# This is the first draft for my final project
+# Final project: draft 1
+# Increasing need to oversee children's screen time on social media in the U.S.: the cases of Instagram and Tiktok
 
-# Main idea
+# Main idea / description
+The idea of the project is to present data about the increasing use of social media among children (ages ≤ 18) in the U.S., and the main negative effects of unsupervised long screen time, espcially the cases of Instagram and TikTok.
 
+
+
+Although we are still missing data and research about the impact of social media on children (mental health, relationships with others. ...)
 
 # Outline
 
@@ -70,4 +75,12 @@ Something
 <img src="images_project/SM RIG 10.jpg" alt="Thought instagram triggers on children" width="600" 
      height="500">
 </div>
+
+
+## Arc of the story
+
+## Method and medium
+
+
+# Data sources
 
