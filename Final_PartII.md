@@ -1,11 +1,11 @@
 # This is the second part of Final project
 
 ## Link to the presentation preview:
-https://preview.shorthand.com/DR1RcxGjouk43u0O
+Draft presentation using Shorthand (preview) [here](https://preview.shorthand.com/DR1RcxGjouk43u0O)
 
 
 ## Past versions of the process
-[Part I](https://ribarrag.github.io/portfolio/Final_PartI.html)
+[Part I](https://ribarrag.github.io/portfolio/Final_PartI.html) -->
 [Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) 
  
 ## Interviews
