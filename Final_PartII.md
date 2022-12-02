@@ -1,7 +1,6 @@
 # This is the second part of Final project
 
-## Link to the presentation preview:
-Draft presentation using Shorthand (preview) [here](https://preview.shorthand.com/DR1RcxGjouk43u0O)
+## Link to the presentation draft (Shorthand preview) --> [here](https://preview.shorthand.com/DR1RcxGjouk43u0O)
 
 
 ## Past versions of the process
