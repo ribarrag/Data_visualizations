@@ -1,4 +1,7 @@
 # References
+About children's screen time
+- Nagata JM, Cortez CA, Cattle CJ, et al. Screen Time Use Among US Adolescents During the COVID-19 Pandemic: Findings From the Adolescent Brain Cognitive Development (ABCD) Study. JAMA Pediatr. 2022;176(1):94–96. [Available here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2785686)
+
 
 Publications linking Instagram to higher levels of depression, anxiety, and negative body image.
 - Sherlock, M., & Wagstaff, D. L. (2019). Exploring the relationship between frequency of Instagram use, exposure to idealized images, and psychological well-being in women. Psychology of Popular Media Culture, 8(4), 482–490. [Available here](https://doi.org/10.1037/ppm0000182)
@@ -15,3 +18,6 @@ WSJ publication of Instagram's research regarding its potential effect on childr
 
 
 WSJ investigation on Tiktok's algorithm:
+
+
+# Missing: include all other sources used in research and data sources that are in Part I
