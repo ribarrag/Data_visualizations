@@ -14,10 +14,10 @@ Publications linking Instagram to higher levels of loneliness, low self-esteem, 
 References for the investigation that __ states have launched regarding Tiktok's effect on children'smental health:
 
 
-WSJ publication of Instagram's research regarding its potential effect on children's mental health:
-
+WSJ publication of Instagram's research regarding its potential effect on children's mental health
+- Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show. [Available here](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)
 
 WSJ investigation on Tiktok's algorithm:
-
+- How TikTok algorithm figures out your deepest desires. [Available here](https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796)
 
 # Missing: include all other sources used in research and data sources that are in Part I
