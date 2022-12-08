@@ -5,7 +5,7 @@ link : https://ribarrag.github.io/portfolio/Final_PartIII.html
 <span style="color:#405DE6">some **blue** text</span>.
 <span style="color:#833AB4">some **purple** text</span>.
 
-the Instagram palette, which includes about six different colors (<span style="color:#405DE6">some **blue** text</span>, <span style="color:#833AB4">some **purple** text</span>,<span style="color: #E1306C ">some **purple red** text</span> , >,<span style="color: #FD1D1D ">some **red** text</span>, <span style="color: #F56040">some **orange** text</span>, <span style="color: #FCAF45">some **yellow** text</span>)
+the Instagram palette, which includes about six different colors (<span style="color:#405DE6">**blue**</span>, <span style="color:#833AB4">**purple**</span>,<span style="color: #E1306C ">**purple red**</span>, <span style="color: #FD1D1D ">**red**</span>, <span style="color: #F56040">**orange**</span>, <span style="color: #FCAF45">**yellow**</span>)
 
 
 <span style="color:blue">some *This is Blue italic.* text</span>
