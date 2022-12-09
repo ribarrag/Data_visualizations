@@ -21,3 +21,15 @@ WSJ investigation on Tiktok's algorithm:
 - How TikTok algorithm figures out your deepest desires. [Available here](https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796)
 
 # Missing: include all other sources used in research and data sources that are in Part I
+
+- Icons used in presentations
+- The icons used in the presentation were all used under ... license
+  - [Freepik](freepik.com)
+  - [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
+  - [Rakib Hassan](https://www.flaticon.com/authors/rakib-hassan-rahim)
+  - [Riajulislam](https://www.flaticon.com/authors/riajulislam)
+
+
+Published at: https://carnegiemellon.shorthandstories.com/poke-me/index.html
+
+Final long: https://carnegiemellon.shorthandstories.com/poke-me_longversion/index.html
