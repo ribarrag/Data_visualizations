@@ -23,11 +23,11 @@ With this in mind, I drafted a very rough first version of what the storytelling
 
 In this Part III, I would like to empasize the following **changes made since the completion of Part II:**
 
-- From the feedback I got during the interview process of Part II, I trimmed parts of the presentation that people had problems understanding. I used a shorter version to present, and then I recovered back some of the elements and tried to tie them better into the overall presentation for the final submission. 
+- From the feedback I got during the interview process of Part II, I trimmed parts of the data story that people had problems understanding. I used a shorter version to present, and then I recovered back some of the elements and tried to tie them better into the overall data story for the final submission. 
 
 - As concrete examples, I discarded a map that people were having trouble understanding, and I felt like it was not essential for the storytelling. I also removed an introductory slide, which I think created confusion and was not very impactful, and instead chose to open the presentation with some data. 
 
-- I got rid of a Shorthand “Scrollmation” when showing the percentage of boys and girls who feel worse after using Instagram and instead only left two static graphs, as the movement was not really adding any value to the presentation.
+- I got rid of a Shorthand “Scrollmation” when showing the percentage of boys and girls who feel worse after using Instagram and instead only left two static graphs, as the movement was not really adding any value to the data story.
 
 
 - One of the most fluctuating aspects of my presentation throughout the process was defining the call to action. I started with a vague idea of how to make people aware of the risks of social media for children. After some rounds of feedback, I decided to create a call to action that invites people to set up parental control tools in their children's social media applications. 
@@ -40,7 +40,7 @@ In this Part III, I would like to empasize the following **changes made since th
 
 - Also, I got feedback about being less general and more specific in the data that I was presenting during Part I and II, and I think that really helped. I discarded some graphs about smartphone ownership among children in the U.S., and device ownership across income levels and ethnicity. I think those numbers were interesting, but they were very general and didn’t help to strengthen the argument.
 
-- Finally, as I worked on refining the graphs and flow of the presentation, I felt more comfortable with working on Flourish and Shorthand and discovered more functionalities of both applications.
+- Finally, as I worked on refining the graphs and flow of the data story, I felt more comfortable with working on Flourish and Shorthand and discovered more functionalities of both applications.
 
 **Audience for the final data story**
 
@@ -48,8 +48,8 @@ In this Part III, I would like to empasize the following **changes made since th
 
 ---
 
-**Script for presentation**  
-Here, you can find the script used for the presentation. It has been graded through Turnit. It had a grade of...
+**Content of final data story**  
+[Here](https://github.com/ribarrag/portfolio/raw/main/social_media_icons/TSWD_ContentPresentation.docx), you can download the script used for the data story. It has been graded through Turnit.
 
 ---
 
