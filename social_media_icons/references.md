@@ -1,4 +1,4 @@
-## References for presentation "Poke me The effects of social media on children* in the U.S."
+## References for presentation "Poke me The effects of social media on children in the U.S."
 
 Pulblication about children's screen time
 - Nagata JM, Cortez CA, Cattle CJ, et al. Screen Time Use Among US Adolescents During the COVID-19 Pandemic: Findings From the Adolescent Brain Cognitive Development (ABCD) Study. JAMA Pediatr. 2022;176(1):94–96. [Available here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2785686)
