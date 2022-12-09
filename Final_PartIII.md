@@ -1,21 +1,13 @@
-# This is the final report for my Final project
-
-Final write-up summarizing everything done thus far
-
-Final story shorthand
+# Final report
 
 Shorthand final versions:
 [Version presented (short)](https://carnegiemellon.shorthandstories.com/poke-me/index.html)
 [Final version (long)](https://carnegiemellon.shorthandstories.com/poke-me_longversion/index.html)
 
-
 Github Parts I, II, III
 [Part I](https://ribarrag.github.io/portfolio/Final_PartI.html) -->
 [Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) -->
 [Part III](https://ribarrag.github.io/portfolio/Final_PartIII.html)
-
-
-
 
 
 **A few paragraphs that reflect on changes you made since the completion of Part II.**
@@ -53,12 +45,5 @@ Include all references for materials used.  It's your responsibility to ensure y
 Once you are finished with your project and feel you're ready to submit your work, copy and paste the text from your story (e.g. from Shorthand, ArcGIS Story Maps) into a new Word document.  Review the TurnItIn results - if TurnItIn flags any issues, you should fix these issues before submitting your final work. Submit your Word document along with the link to your final project. Not sure how to do that?  This will walk you through those steps: 
 
 
-
-Word document turn it in
-
-Presentation
-
-
-
-
-[References]()
+## References
+References are included in the presentation. But they are also compiled [here](https://ribarrag.github.io/portfolio/social_media_icons/references.html)
