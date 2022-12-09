@@ -9,8 +9,19 @@
 [Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) -->
 [Part III](https://ribarrag.github.io/portfolio/Final_PartIII.html)
 
+**Brief overal desrcription of project**
 
-**Changes made since the completion of Part II.**
+I started out with the iodea of presenting how socila media use has increased during the pandemic, and how it has -in a way- been shaping how people spend their free time. I even consider the idea of talking about how social media is reducing our attention span, as we are now more used to getting information and content in formats of a few characters, or short videos.
+
+After much thinking and some research, I decided to do it about the effect of social emdia on mental health, and then narrowed it down to children, as the new generations are more exposed to social media, and its being a core part of their development. 
+
+I constrained the story to the U.S., as I gound more data available, and because there are many factors that are different across countries: access to technology, education in use of these technologies, presence of major social media apps, etc.
+
+With this in mind, I drafted a very rough first version of what the storytelling should look like (Part I), and continuosly refined the work to its final product.
+
+---
+
+In this Part III, I would like to empasize the following **changes made since the completion of Part II:**
 
 - From the feedback I got during the interview process of Part II, I trimmed parts of the presentation that people had problems understanding. I used a shorter version to present, and then I recovered back some of the elements and tried to tie them better into the overall presentation for the final submission. 
 
@@ -35,6 +46,8 @@
 
 - During Part I and some of Part II, I was thinking about a very general audience, but as I developed a clearer idea of my call to action, I decided that I was speaking to parents of young children that use social media. As I needed to consider that I was presenting to young graduate students who, in most cases, might not be parents, I decided to add a line in the call to action that invites them to recommend using parental control to family and friends.
 
+**Script for presentation**
+Here, you can find the scriot used for the presentation. It has been graded through Turnit
 
 ## References
 References are included in the presentation. But they are also compiled [here](https://ribarrag.github.io/portfolio/social_media_icons/references.html)
