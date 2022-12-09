@@ -9,11 +9,11 @@
 [Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) -->
 [Part III](https://ribarrag.github.io/portfolio/Final_PartIII.html)
 
-**Brief overal desrcription of project**
+**Brief overall description of project**
 
-I started out with the iodea of presenting how socila media use has increased during the pandemic, and how it has -in a way- been shaping how people spend their free time. I even consider the idea of talking about how social media is reducing our attention span, as we are now more used to getting information and content in formats of a few characters, or short videos.
+I started out with the idea of presenting how social media use has increased during the pandemic, and how it has -in a way- been shaping how people spend their free time. I even considered talking about how social media is reducing our attention span, as we are now more used to getting information and content in formats of a few characters, or short videos.
 
-After much thinking and some research, I decided to do it about the effect of social emdia on mental health, and then narrowed it down to children, as the new generations are more exposed to social media, and its being a core part of their development. 
+After much thinking and some research, I decided to do it about the effect of social media on mental health, and then narrowed it down to children, as the new generations are more exposed to social media, and its being part of their social interaction and development. 
 
 I constrained the story to the U.S., as I gound more data available, and because there are many factors that are different across countries: access to technology, education in use of these technologies, presence of major social media apps, etc.
 
