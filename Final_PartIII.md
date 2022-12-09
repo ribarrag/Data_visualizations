@@ -39,11 +39,5 @@ I got feedback about being less general and more specific in the data that I was
 Finally, as I worked on refining the graphs and flow of the presentation, I felt more comfortable with working on Flourish and Shorthand and discovered more functionalities of both applications.
 
 
-(Hey!  These next two bullets are important!  You're creating a publicly-accessible website, so take the time to make sure you're citing your materials correctly.  If you're unfamiliar with what a copyright is or how to cite materials, please see the library's guide.  This helps protect you from potential issues around copyright violations and academic integrity issues related to plagiarism.)
-
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions. 
-Once you are finished with your project and feel you're ready to submit your work, copy and paste the text from your story (e.g. from Shorthand, ArcGIS Story Maps) into a new Word document.  Review the TurnItIn results - if TurnItIn flags any issues, you should fix these issues before submitting your final work. Submit your Word document along with the link to your final project. Not sure how to do that?  This will walk you through those steps: 
-
-
 ## References
 References are included in the presentation. But they are also compiled [here](https://ribarrag.github.io/portfolio/social_media_icons/references.html)
