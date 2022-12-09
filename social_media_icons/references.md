@@ -1,5 +1,7 @@
-# References
-About children's screen time
+# References for presentation "Poke me The effects of social media on children* in the U.S."
+
+## References
+Pulblication about children's screen time
 - Nagata JM, Cortez CA, Cattle CJ, et al. Screen Time Use Among US Adolescents During the COVID-19 Pandemic: Findings From the Adolescent Brain Cognitive Development (ABCD) Study. JAMA Pediatr. 2022;176(1):94–96. [Available here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2785686)
 
 Publications linking Instagram to higher levels of depression, anxiety, and negative body image.
@@ -11,7 +13,7 @@ Publications linking Instagram to higher levels of loneliness, low self-esteem, 
 - Jasmine Fardoulya, Rebecca T. Pinkusb, Lenny R. Vartaniana (2016). The impact of appearance comparisons made through social media, traditional media, and in person in women’s everyday lives, Body Image, Volume 20, Pages 31-39. [Available here](http://www2.psy.unsw.edu.au/Users/lvartanian/Publications/Fardouly,%20Pinkus,%20&%20Vartanian%20(2017).pdf)
 - Choukas-Bradley, S., Roberts, S. R., Maheux, A. J., & Nesi, J. (2021, March 18). The Perfect Storm: A Developmental–Sociocultural Framework for the Role of Social Media in Adolescent Girls’ Body Image Concerns and Mental Health. [Available here](https://doi.org/10.31234/osf.io/ju92a)
 
-ublications about TikTok's recommendation system on brain activity.
+Publication about TikTok's recommendation system on brain activity.
 - Viewing personalized video clips recommended by TikTok activates default mode network and ventral tegmental area. [Available here](https://www.sciencedirect.com/science/article/pii/S1053811921004134)
 
 References for the investigation that eight states have launched regarding Tiktok's effect on children'smental health:
