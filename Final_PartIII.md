@@ -1,10 +1,10 @@
 # Final report
 
-Shorthand final versions:
-[Version presented (short)](https://carnegiemellon.shorthandstories.com/poke-me/index.html)
-[Final version (long)](https://carnegiemellon.shorthandstories.com/poke-me_longversion/index.html)
+Shorthand final versions:  
+[Version presented (short)](https://carnegiemellon.shorthandstories.com/poke-me/index.html)  
+[Final version (long)](https://carnegiemellon.shorthandstories.com/poke-me_longversion/index.html)  
 
-Github Parts I, II, III
+Github Parts I, II, III  
 [Part I](https://ribarrag.github.io/portfolio/Final_PartI.html) -->
 [Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) -->
 [Part III](https://ribarrag.github.io/portfolio/Final_PartIII.html)
