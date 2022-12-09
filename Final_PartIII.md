@@ -4,17 +4,18 @@ Final write-up summarizing everything done thus far
 
 Final story shorthand
 
-Shorthand versions
-1, 2, Presentation, Final
+Shorthand final versions:
+[Version presented (short)](https://carnegiemellon.shorthandstories.com/poke-me/index.html)
+[Final version (long)](https://carnegiemellon.shorthandstories.com/poke-me_longversion/index.html)
 
-Github parts
-1, 2, Final
 
-LINK TO GITHUB past repositories
-Link to Shorthands past version
-Link to references
+Github Parts I, II, III
+[Part I](https://ribarrag.github.io/portfolio/Final_PartI.html) -->
+[Part II](https://ribarrag.github.io/portfolio/Final_PartII.html) -->
+[Part III](https://ribarrag.github.io/portfolio/Final_PartIII.html)
 
-Citar las fuentes de los iconos
+
+
 
 
 **A few paragraphs that reflect on changes you made since the completion of Part II.**
@@ -57,3 +58,7 @@ Word document turn it in
 
 Presentation
 
+
+
+
+[References]()
