@@ -49,7 +49,7 @@ In this Part III, I would like to empasize the following **changes made since th
 ---
 
 **Script for presentation**  
-Here, you can find the script used for the presentation. It has been graded through Turnit
+Here, you can find the script used for the presentation. It has been graded through Turnit. It had a grade of...
 
 ---
 
